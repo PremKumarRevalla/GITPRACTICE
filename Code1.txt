@@ -3,5 +3,3 @@ Function1(){
 function_feature2(){
 }
 
-feature2_function_ongithub(){
-}
